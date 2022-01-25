@@ -46,6 +46,7 @@
         }
         .container .tabel_2 tr th {
             padding-bottom: 5px;
+            
         }
     </style>
 </head>
@@ -121,6 +122,9 @@
                             <option value="8">Goa Pindul</option>
                         </select>
                     </th>
+                </tr>
+                <tr>
+                    <th colspan="2">Note : Tiket takan berpengaruh ketika pergi ke Pendopo Lawas</th>
                 </tr>
                 <tr>
                     <th><label for="tiket_1">Jumlah Tiket</label></th>
